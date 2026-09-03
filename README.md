@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
