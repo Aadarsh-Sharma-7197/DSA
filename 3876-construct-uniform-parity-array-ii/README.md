@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/construct-uniform-parity-array-ii">4258. Construct Uniform Parity Array II</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums1</code> of <code>n</code> <strong>distinct</strong> integers.</p>
+# 3876. Construct Uniform Parity Array II
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/)
+
+**Topics:** Array, Math
+
+---
+
+<p>You are given an array <code>nums1</code> of <code>n</code> <strong>distinct</strong> integers.</p>
 
 <p>You want to construct another array <code>nums2</code> of length <code>n</code> such that the elements in <code>nums2</code> are either <strong>all odd or all even</strong>.</p>
 
@@ -65,3 +73,8 @@
 	<li><code>1 &lt;= nums1[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>nums1</code> consists of distinct integers.</li>
 </ul>
+
+
+---
+
+**My Solution:** [3876-Construct-Uniform-Parity-Array-II.java](./3876-Construct-Uniform-Parity-Array-II.java)
