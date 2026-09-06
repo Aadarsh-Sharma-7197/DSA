@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0115-distinct-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Theory
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
