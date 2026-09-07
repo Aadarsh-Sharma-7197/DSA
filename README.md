@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0115-distinct-subsequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
