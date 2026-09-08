@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/count-commas-in-range">4245. Count Commas in Range</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>.</p>
+# 3870. Count Commas in Range
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/count-commas-in-range/)
+
+**Topics:** Math
+
+---
+
+<p>You are given an integer <code>n</code>.</p>
 
 <p>Return the <strong>total</strong> number of commas used when writing all integers from <code>[1, n]</code> (inclusive) in <strong>standard</strong> number formatting.</p>
 
@@ -40,3 +48,8 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+
+---
+
+**My Solution:** [3870-Count-Commas-in-Range.java](./3870-Count-Commas-in-Range.java)
