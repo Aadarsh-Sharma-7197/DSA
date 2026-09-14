@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/capitalize-the-title">2235. Capitalize the Title</a></h2><h3>Easy</h3><hr><p>You are given a string <code>title</code> consisting of one or more words separated by a single space, where each word consists of English letters. <strong>Capitalize</strong> the string by changing the capitalization of each word such that:</p>
+# 2129. Capitalize the Title
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/capitalize-the-title/)
+
+**Topics:** String
+
+---
+
+<p>You are given a string <code>title</code> consisting of one or more words separated by a single space, where each word consists of English letters. <strong>Capitalize</strong> the string by changing the capitalization of each word such that:</p>
 
 <ul>
 	<li>If the length of the word is <code>1</code> or <code>2</code> letters, change all letters to lowercase.</li>
@@ -45,3 +53,8 @@ The remaining words have a length of at least 3, so the first letter of each rem
 	<li><code>title</code> consists of words separated by a single space without any leading or trailing spaces.</li>
 	<li>Each word consists of uppercase and lowercase English letters and is <strong>non-empty</strong>.</li>
 </ul>
+
+
+---
+
+**My Solution:** [2129-Capitalize-the-Title.java](./2129-Capitalize-the-Title.java)
