@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0115-distinct-subsequences) |
 | [0709-to-lower-case](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2129-capitalize-the-title) |
+| [3271-hash-divided-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3271-hash-divided-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [3271-hash-divided-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3271-hash-divided-string) |
 <!---LeetCode Topics End-->
