@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0908-smallest-range-i) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2413-smallest-even-multiple](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2413-smallest-even-multiple) |
 | [3870-count-commas-in-range](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
