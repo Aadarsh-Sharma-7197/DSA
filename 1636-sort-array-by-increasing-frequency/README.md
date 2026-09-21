@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/sort-array-by-increasing-frequency">1741. Sort Array by Increasing Frequency</a></h2><h3>Easy</h3><hr><p>Given an array of integers <code>nums</code>, sort the array in <strong>increasing</strong> order based on the frequency of the values. If multiple values have the same frequency, sort them in <strong>decreasing</strong> order.</p>
+# 1636. Sort Array by Increasing Frequency
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
+
+**Topics:** Array, Hash Table, Sorting
+
+---
+
+<p>Given an array of integers <code>nums</code>, sort the array in <strong>increasing</strong> order based on the frequency of the values. If multiple values have the same frequency, sort them in <strong>decreasing</strong> order.</p>
 
 <p>Return the <em>sorted array</em>.</p>
 
@@ -32,3 +40,8 @@
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+
+---
+
+**My Solution:** [1636-Sort-Array-by-Increasing-Frequency.java](./1636-Sort-Array-by-Increasing-Frequency.java)
