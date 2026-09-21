@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0238-product-of-array-except-self) |
+| [0905-sort-array-by-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0908-smallest-range-i) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0791-custom-sort-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0791-custom-sort-string) |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
+| [0905-sort-array-by-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0905-sort-array-by-parity) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-reaching-points](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0780-reaching-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
