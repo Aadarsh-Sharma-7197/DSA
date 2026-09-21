@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0115-distinct-subsequences) |
 | [0709-to-lower-case](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0709-to-lower-case) |
+| [0791-custom-sort-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0791-custom-sort-string) |
 | [2129-capitalize-the-title](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3271-hash-divided-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3271-hash-divided-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0791-custom-sort-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0791-custom-sort-string) |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0791-custom-sort-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0791-custom-sort-string) |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
 ## Counting
 |  |
