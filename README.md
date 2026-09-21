@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0791-custom-sort-string) |
 | [2129-capitalize-the-title](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3271-hash-divided-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
