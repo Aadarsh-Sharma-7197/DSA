@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/sort-the-people">2502. Sort the People</a></h2><h3>Easy</h3><hr><p>You are given an array of strings <code>names</code>, and an array <code>heights</code> that consists of <strong>distinct</strong> positive integers. Both arrays are of length <code>n</code>.</p>
+# 2418. Sort the People
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/sort-the-people/)
+
+**Topics:** Array, Hash Table, String, Sorting
+
+---
+
+<p>You are given an array of strings <code>names</code>, and an array <code>heights</code> that consists of <strong>distinct</strong> positive integers. Both arrays are of length <code>n</code>.</p>
 
 <p>For each index <code>i</code>, <code>names[i]</code> and <code>heights[i]</code> denote the name and height of the <code>i<sup>th</sup></code> person.</p>
 
@@ -32,3 +40,8 @@
 	<li><code>names[i]</code> consists of lower and upper case English letters.</li>
 	<li>All the values of <code>heights</code> are distinct.</li>
 </ul>
+
+
+---
+
+**My Solution:** [2418-Sort-the-People.java](./2418-Sort-the-People.java)
