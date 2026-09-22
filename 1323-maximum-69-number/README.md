@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/maximum-69-number">1448. Maximum 69 Number</a></h2><h3>Easy</h3><hr><p>You are given a positive integer <code>num</code> consisting only of digits <code>6</code> and <code>9</code>.</p>
+# 1323. Maximum 69 Number
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/maximum-69-number/)
+
+**Topics:** Math, Greedy
+
+---
+
+<p>You are given a positive integer <code>num</code> consisting only of digits <code>6</code> and <code>9</code>.</p>
 
 <p>Return <em>the maximum number you can get by changing <strong>at most</strong> one digit (</em><code>6</code><em> becomes </em><code>9</code><em>, and </em><code>9</code><em> becomes </em><code>6</code><em>)</em>.</p>
 
@@ -39,3 +47,8 @@ The maximum number is 9969.
 	<li><code>1 &lt;= num &lt;= 10<sup>4</sup></code></li>
 	<li><code>num</code>&nbsp;consists of only <code>6</code> and <code>9</code> digits.</li>
 </ul>
+
+
+---
+
+**My Solution:** [1323-Maximum-69-Number.java](./1323-Maximum-69-Number.java)
