@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index">3869. Smallest Index With Digit Sum Equal to Index</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+# 3550. Smallest Index With Digit Sum Equal to Index
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
+
+**Topics:** Array, Math
+
+---
+
+<p>You are given an integer array <code>nums</code>.</p>
 
 <p>Return the <strong>smallest</strong> index <code>i</code> such that the sum of the digits of <code>nums[i]</code> is equal to <code>i</code>.</p>
 
@@ -56,3 +64,8 @@
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 1000</code></li>
 </ul>
+
+
+---
+
+**My Solution:** [3550-Smallest-Index-With-Digit-Sum-Equal-to-Index.java](./3550-Smallest-Index-With-Digit-Sum-Equal-to-Index.java)
