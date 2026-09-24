@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Recursion
 |  |
 | ------- |
