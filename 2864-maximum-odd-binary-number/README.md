@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/maximum-odd-binary-number">3055. Maximum Odd Binary Number</a></h2><h3>Easy</h3><hr><p>You are given a <strong>binary</strong> string <code>s</code> that contains at least one <code>&#39;1&#39;</code>.</p>
+# 2864. Maximum Odd Binary Number
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/maximum-odd-binary-number/)
+
+**Topics:** Math, String, Greedy
+
+---
+
+<p>You are given a <strong>binary</strong> string <code>s</code> that contains at least one <code>&#39;1&#39;</code>.</p>
 
 <p>You have to <strong>rearrange</strong> the bits in such a way that the resulting binary number is the <strong>maximum odd binary number</strong> that can be created from this combination.</p>
 
@@ -31,3 +39,8 @@
 	<li><code>s</code> consists only of <code>&#39;0&#39;</code> and <code>&#39;1&#39;</code>.</li>
 	<li><code>s</code> contains at least one <code>&#39;1&#39;</code>.</li>
 </ul>
+
+
+---
+
+**My Solution:** [2864-Maximum-Odd-Binary-Number.java](./2864-Maximum-Odd-Binary-Number.java)
