@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2413-smallest-even-multiple](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2413-smallest-even-multiple) |
+| [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3271-hash-divided-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -198,4 +200,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1323-maximum-69-number) |
+| [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
