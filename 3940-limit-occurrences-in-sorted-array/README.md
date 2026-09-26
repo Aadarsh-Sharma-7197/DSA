@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/limit-occurrences-in-sorted-array">4312. Limit Occurrences in Sorted Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>sorted</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
+# 3940. Limit Occurrences in Sorted Array
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/limit-occurrences-in-sorted-array/)
+
+**Topics:** Array, Two Pointers
+
+---
+
+<p>You are given a <strong>sorted</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>Return an array such that each <strong>distinct</strong> element appears <strong>at most</strong> <code>k</code> times, while preserving the relative order of the elements in <code>nums</code>.</p>
 
@@ -54,3 +62,8 @@
 	<li>Can you solve this in-place using O(1) extra space?</li>
 	<li>Note that the space used for returning or resizing the result does not count toward the space complexity mentioned above, as some languages do not support in-place resizing.</li>
 </ul>
+
+
+---
+
+**My Solution:** [3940-Limit-Occurrences-in-Sorted-Array.java](./3940-Limit-Occurrences-in-Sorted-Array.java)
