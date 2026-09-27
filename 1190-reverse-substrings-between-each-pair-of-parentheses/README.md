@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses">1298. Reverse Substrings Between Each Pair of Parentheses</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> that consists of lower case English letters and brackets.</p>
+# 1190. Reverse Substrings Between Each Pair of Parentheses
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+
+**Topics:** String, Stack, Bracket Sequences
+
+---
+
+<p>You are given a string <code>s</code> that consists of lower case English letters and brackets.</p>
 
 <p>Reverse the strings in each pair of matching parentheses, starting from the innermost one.</p>
 
@@ -36,3 +44,8 @@
 	<li><code>s</code> only contains lower case English characters and parentheses.</li>
 	<li>It is guaranteed that all parentheses are balanced.</li>
 </ul>
+
+
+---
+
+**My Solution:** [1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses.java](./1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses.java)
