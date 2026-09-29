@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0238-product-of-array-except-self) |
+| [0435-non-overlapping-intervals](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0821-shortest-distance-to-a-character](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0908-smallest-range-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0115-distinct-subsequences) |
+| [0435-non-overlapping-intervals](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0791-custom-sort-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0791-custom-sort-string) |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0905-sort-array-by-parity) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1323-maximum-69-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1323-maximum-69-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
 ## Bracket Sequences
