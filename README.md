@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2413-smallest-even-multiple](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2413-smallest-even-multiple) |
 | [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3871-count-commas-in-range-ii) |
