@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2129-capitalize-the-title) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1768-merge-strings-alternately) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
 |  |
