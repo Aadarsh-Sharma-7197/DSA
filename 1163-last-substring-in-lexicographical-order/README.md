@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/last-substring-in-lexicographical-order">1133. Last Substring in Lexicographical Order</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code>, return <em>the last substring of</em> <code>s</code> <em>in lexicographical order</em>.</p>
+# 1163. Last Substring in Lexicographical Order
+
+🔴 **Hard** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+
+**Topics:** Two Pointers, String, Lyndon Factorization
+
+---
+
+<p>Given a string <code>s</code>, return <em>the last substring of</em> <code>s</code> <em>in lexicographical order</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -23,3 +31,8 @@
 	<li><code>1 &lt;= s.length &lt;= 4 * 10<sup>5</sup></code></li>
 	<li><code>s</code> contains only lowercase English letters.</li>
 </ul>
+
+
+---
+
+**My Solution:** [1163-Last-Substring-in-Lexicographical-Order.java](./1163-Last-Substring-in-Lexicographical-Order.java)
