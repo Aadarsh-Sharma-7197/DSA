@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0709-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0791-custom-sort-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1323-maximum-69-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1323-maximum-69-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
 ## Bracket Sequences
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
