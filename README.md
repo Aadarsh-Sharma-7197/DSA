@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0709-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0791-custom-sort-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0856-score-of-parentheses) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
