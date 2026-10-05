@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/number-of-students-unable-to-eat-lunch">1802. Number of Students Unable to Eat Lunch</a></h2><h3>Easy</h3><hr><p>The school cafeteria offers circular and square sandwiches at lunch break, referred to by numbers <code>0</code> and <code>1</code> respectively. All students stand in a queue. Each student either prefers square or circular sandwiches.</p>
+# 1700. Number of Students Unable to Eat Lunch
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+
+**Topics:** Array, Stack, Queue, Simulation
+
+---
+
+<p>The school cafeteria offers circular and square sandwiches at lunch break, referred to by numbers <code>0</code> and <code>1</code> respectively. All students stand in a queue. Each student either prefers square or circular sandwiches.</p>
 
 <p>The number of sandwiches in the cafeteria is equal to the number of students. The sandwiches are placed in a <strong>stack</strong>. At each step:</p>
 
@@ -45,3 +53,8 @@ Hence all students are able to eat.
 	<li><code>sandwiches[i]</code> is <code>0</code> or <code>1</code>.</li>
 	<li><code>students[i]</code> is <code>0</code> or <code>1</code>.</li>
 </ul>
+
+
+---
+
+**My Solution:** [1700-Number-of-Students-Unable-to-Eat-Lunch.java](./1700-Number-of-Students-Unable-to-Eat-Lunch.java)
