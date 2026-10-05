@@ -9,16 +9,13 @@ class DataStream {
     }
     
     public boolean consec(int num) {
-        if(num == value){
+        if(num == value)
             cnt++;
-        }
         else{
             cnt = 0;
-            return false;
         }
-        if(cnt >= k){
+        if(cnt >= k)
             return true;
-        }
         return false;
     }
 }
