@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
