@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1314-matrix-block-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1314-matrix-block-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -62,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1314-matrix-block-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1314-matrix-block-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0238-product-of-array-except-self) |
+| [1314-matrix-block-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1314-matrix-block-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
