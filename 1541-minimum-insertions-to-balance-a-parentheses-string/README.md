@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string">1648. Minimum Insertions to Balance a Parentheses String</a></h2><h3>Medium</h3><hr><p>Given a parentheses string <code>s</code> containing only the characters <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>. A parentheses string is <strong>balanced</strong> if:</p>
+# 1541. Minimum Insertions to Balance a Parentheses String
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)
+
+**Topics:** String, Stack, Greedy, Bracket Sequences
+
+---
+
+<p>Given a parentheses string <code>s</code> containing only the characters <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>. A parentheses string is <strong>balanced</strong> if:</p>
 
 <ul>
 	<li>Any left parenthesis <code>&#39;(&#39;</code> must have a corresponding two consecutive right parenthesis <code>&#39;))&#39;</code>.</li>
@@ -47,3 +55,8 @@
 	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> consists of <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code> only.</li>
 </ul>
+
+
+---
+
+**My Solution:** [1541-Minimum-Insertions-to-Balance-a-Parentheses-String.java](./1541-Minimum-Insertions-to-Balance-a-Parentheses-String.java)
