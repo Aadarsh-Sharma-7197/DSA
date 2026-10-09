@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/matrix-block-sum">1242. Matrix Block Sum</a></h2><h3>Medium</h3><hr><p>Given a <code>m x n</code> matrix <code>mat</code> and an integer <code>k</code>, return <em>a matrix</em> <code>answer</code> <em>where each</em> <code>answer[i][j]</code> <em>is the sum of all elements</em> <code>mat[r][c]</code> <em>for</em>:</p>
+# 1314. Matrix Block Sum
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/matrix-block-sum/)
+
+**Topics:** Array, Matrix, Prefix Sum
+
+---
+
+<p>Given a <code>m x n</code> matrix <code>mat</code> and an integer <code>k</code>, return <em>a matrix</em> <code>answer</code> <em>where each</em> <code>answer[i][j]</code> <em>is the sum of all elements</em> <code>mat[r][c]</code> <em>for</em>:</p>
 
 <ul>
 	<li><code>i - k &lt;= r &lt;= i + k,</code></li>
@@ -30,3 +38,8 @@
 	<li><code>1 &lt;= m, n, k &lt;= 100</code></li>
 	<li><code>1 &lt;= mat[i][j] &lt;= 100</code></li>
 </ul>
+
+
+---
+
+**My Solution:** [1314-Matrix-Block-Sum.java](./1314-Matrix-Block-Sum.java)
