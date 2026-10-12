@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/crawler-log-folder">1720. Crawler Log Folder</a></h2><h3>Easy</h3><hr><p>The Leetcode file system keeps a log each time some user performs a <em>change folder</em> operation.</p>
+# 1598. Crawler Log Folder
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/crawler-log-folder/)
+
+**Topics:** Array, String, Stack
+
+---
+
+<p>The Leetcode file system keeps a log each time some user performs a <em>change folder</em> operation.</p>
 
 <p>The operations are described below:</p>
 
@@ -51,3 +59,8 @@
 	<li><code>logs[i]</code> follows the format described in the statement.</li>
 	<li>Folder names consist of lowercase English letters and digits.</li>
 </ul>
+
+
+---
+
+**My Solution:** [1598-Crawler-Log-Folder.java](./1598-Crawler-Log-Folder.java)
