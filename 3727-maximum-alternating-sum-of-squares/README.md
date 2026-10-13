@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/maximum-alternating-sum-of-squares">4078. Maximum Alternating Sum of Squares</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>. You may <strong>rearrange the elements</strong> in any order.</p>
+# 3727. Maximum Alternating Sum of Squares
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/)
+
+**Topics:** Array, Greedy, Sorting
+
+---
+
+<p>You are given an integer array <code>nums</code>. You may <strong>rearrange the elements</strong> in any order.</p>
 
 <p>The <strong>alternating score</strong> of an array <code>arr</code> is defined as:</p>
 
@@ -48,3 +56,8 @@
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>-4 * 10<sup>4</sup> &lt;= nums[i] &lt;= 4 * 10<sup>4</sup></code></li>
 </ul>
+
+
+---
+
+**My Solution:** [3727-Maximum-Alternating-Sum-of-Squares.java](./3727-Maximum-Alternating-Sum-of-Squares.java)
