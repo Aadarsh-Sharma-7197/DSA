@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/maximize-sum-of-squares-of-digits">4084. Maximize Sum of Squares of Digits</a></h2><h3>Medium</h3><hr><p>You are given two <strong>positive</strong> integers <code>num</code> and <code>sum</code>.</p>
+# 3723. Maximize Sum of Squares of Digits
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/)
+
+**Topics:** Math, Greedy
+
+---
+
+<p>You are given two <strong>positive</strong> integers <code>num</code> and <code>sum</code>.</p>
 
 <p>A positive integer <code>n</code> is <strong>good</strong> if it satisfies both of the following:</p>
 
@@ -70,3 +78,8 @@
 	<li><code>1 &lt;= num &lt;= 2 * 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= sum &lt;= 2 * 10<sup>6</sup></code></li>
 </ul>
+
+
+---
+
+**My Solution:** [3723-Maximize-Sum-of-Squares-of-Digits.java](./3723-Maximize-Sum-of-Squares-of-Digits.java)
