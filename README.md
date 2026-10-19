@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2399-check-distances-between-same-letters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
