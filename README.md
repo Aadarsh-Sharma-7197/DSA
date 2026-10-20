@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1980-find-unique-binary-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1980-find-unique-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1844-replace-all-digits-with-characters) |
+| [1980-find-unique-binary-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1980-find-unique-binary-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1980-find-unique-binary-string) |
 | [2399-check-distances-between-same-letters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0022-generate-parentheses) |
+| [1980-find-unique-binary-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1980-find-unique-binary-string) |
 ## Lyndon Factorization
 |  |
 | ------- |
