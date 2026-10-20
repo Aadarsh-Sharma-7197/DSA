@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/minimize-string-length">2825. Minimize String Length</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, you have two types of operation:</p>
+# 2716. Minimize String Length
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/minimize-string-length/)
+
+**Topics:** Hash Table, String
+
+---
+
+<p>Given a string <code>s</code>, you have two types of operation:</p>
 
 <ol>
 	<li>Choose an index <code>i</code> in the string, and let <code>c</code> be the character in position <code>i</code>. <strong>Delete</strong> the <strong>closest occurrence</strong> of <code>c</code> to the <strong>left</strong> of <code>i</code> (if exists).</li>
@@ -70,3 +78,8 @@
 	<li><code>1 &lt;= s.length &lt;= 100</code></li>
 	<li><code>s</code> contains only lowercase English letters</li>
 </ul>
+
+
+---
+
+**My Solution:** [2716-Minimize-String-Length.java](./2716-Minimize-String-Length.java)
