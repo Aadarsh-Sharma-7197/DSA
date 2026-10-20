@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/reverse-string-prefix">4177. Reverse String Prefix</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> and an integer <code>k</code>.</p>
+# 3794. Reverse String Prefix
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/reverse-string-prefix/)
+
+**Topics:** Two Pointers, String
+
+---
+
+<p>You are given a string <code>s</code> and an integer <code>k</code>.</p>
 
 <p>Reverse the first <code>k</code> characters of <code>s</code> and return the resulting string.</p>
 
@@ -47,3 +55,8 @@
 	<li><code>s</code> consists of lowercase English letters.</li>
 	<li><code>1 &lt;= k &lt;= s.length</code></li>
 </ul>
+
+
+---
+
+**My Solution:** [3794-Reverse-String-Prefix.java](./3794-Reverse-String-Prefix.java)
