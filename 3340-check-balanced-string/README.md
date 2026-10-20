@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/check-balanced-string">3636. Check Balanced String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>num</code> consisting of only digits. A string of digits is called <b>balanced </b>if the sum of the digits at even indices is equal to the sum of digits at odd indices.</p>
+# 3340. Check Balanced String
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/check-balanced-string/)
+
+**Topics:** String
+
+---
+
+<p>You are given a string <code>num</code> consisting of only digits. A string of digits is called <b>balanced </b>if the sum of the digits at even indices is equal to the sum of digits at odd indices.</p>
 
 <p>Return <code>true</code> if <code>num</code> is <strong>balanced</strong>, otherwise return <code>false</code>.</p>
 
@@ -40,3 +48,8 @@
 	<li><code>2 &lt;= num.length &lt;= 100</code></li>
 	<li><code><font face="monospace">num</font></code> consists of digits only</li>
 </ul>
+
+
+---
+
+**My Solution:** [3340-Check-Balanced-String.java](./3340-Check-Balanced-String.java)
