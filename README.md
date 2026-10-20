@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
+| [2716-minimize-string-length](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3271-hash-divided-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3271-hash-divided-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [2716-minimize-string-length](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
