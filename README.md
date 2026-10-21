@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2895-minimum-processing-time](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2895-minimum-processing-time) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2895-minimum-processing-time](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2895-minimum-processing-time) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
+| [2895-minimum-processing-time](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2895-minimum-processing-time) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
