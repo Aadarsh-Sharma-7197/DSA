@@ -1,5 +1,5 @@
 class Solution {
     public int minOperations(int n) {
-        return n*n/4;
+        return n*n>>2;
     }
 }
