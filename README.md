@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1980-find-unique-binary-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1980-find-unique-binary-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1314-matrix-block-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
