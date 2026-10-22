@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/find-words-containing-character">3194. Find Words Containing Character</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array of strings <code>words</code> and a character <code>x</code>.</p>
+# 2942. Find Words Containing Character
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-words-containing-character/)
+
+**Topics:** Array, String
+
+---
+
+<p>You are given a <strong>0-indexed</strong> array of strings <code>words</code> and a character <code>x</code>.</p>
 
 <p>Return <em>an <strong>array of indices</strong> representing the words that contain the character </em><code>x</code>.</p>
 
@@ -38,3 +46,8 @@
 	<li><code>x</code> is a lowercase English letter.</li>
 	<li><code>words[i]</code> consists only of lowercase English letters.</li>
 </ul>
+
+
+---
+
+**My Solution:** [2942-Find-Words-Containing-Character.java](./2942-Find-Words-Containing-Character.java)
