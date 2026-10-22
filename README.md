@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0780-reaching-points](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0780-reaching-points) |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0908-smallest-range-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Depth-First Search
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0905-sort-array-by-parity) |
