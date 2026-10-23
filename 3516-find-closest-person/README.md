@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/find-closest-person">3830. Find Closest Person</a></h2><h3>Easy</h3><hr><p data-end="116" data-start="0">You are given three integers <code data-end="33" data-start="30">x</code>, <code data-end="38" data-start="35">y</code>, and <code data-end="47" data-start="44">z</code>, representing the positions of three people on a number line:</p>
+# 3516. Find Closest Person
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-closest-person/)
+
+**Topics:** Math
+
+---
+
+<p data-end="116" data-start="0">You are given three integers <code data-end="33" data-start="30">x</code>, <code data-end="38" data-start="35">y</code>, and <code data-end="47" data-start="44">z</code>, representing the positions of three people on a number line:</p>
 
 <ul data-end="252" data-start="118">
 	<li data-end="154" data-start="118"><code data-end="123" data-start="120">x</code> is the position of Person 1.</li>
@@ -76,3 +84,8 @@
 <ul>
 	<li><code>1 &lt;= x, y, z &lt;= 100</code></li>
 </ul>
+
+
+---
+
+**My Solution:** [3516-Find-Closest-Person.java](./3516-Find-Closest-Person.java)
