@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/find-the-maximum-achievable-number">2812. Find the Maximum Achievable Number</a></h2><h3>Easy</h3><hr><p>Given two integers, <code>num</code> and <code>t</code>. A <strong>number </strong><code>x</code><strong> </strong>is<strong> achievable</strong> if it can become equal to <code>num</code> after applying the following operation <strong>at most</strong> <code>t</code> times:</p>
+# 2769. Find the Maximum Achievable Number
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-the-maximum-achievable-number/)
+
+**Topics:** Math
+
+---
+
+<p>Given two integers, <code>num</code> and <code>t</code>. A <strong>number </strong><code>x</code><strong> </strong>is<strong> achievable</strong> if it can become equal to <code>num</code> after applying the following operation <strong>at most</strong> <code>t</code> times:</p>
 
 <ul>
 	<li>Increase or decrease <code>x</code> by <code>1</code>, and <em>simultaneously</em> increase or decrease <code>num</code> by <code>1</code>.</li>
@@ -45,3 +53,8 @@
 <ul>
 	<li><code>1 &lt;= num, t&nbsp;&lt;= 50</code></li>
 </ul>
+
+
+---
+
+**My Solution:** [2769-Find-the-Maximum-Achievable-Number.java](./2769-Find-the-Maximum-Achievable-Number.java)
