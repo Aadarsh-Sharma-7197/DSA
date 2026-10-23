@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3516-find-closest-person](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3516-find-closest-person) |
