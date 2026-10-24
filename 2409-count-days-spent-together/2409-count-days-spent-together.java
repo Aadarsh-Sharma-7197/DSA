@@ -17,10 +17,8 @@ class Solution {
         int ele2 = Integer.valueOf(leaveBob.substring(0,2));
         ele2 = (ele2 == 1)? 0:month[ele2-2];
         ele2 += Integer.valueOf(leaveBob.substring(3,5));
-        for(int i = 1; i <= 365; i++){
-            if(i >= val1 && i <= val2 && i >= ele1 && i <= ele2)
-                cnt++;
-        }
-        return cnt;
+        int start = Math.max(val1,ele1);
+        int end = Math.min(val2,ele2);
+        return Math.max(0,end-start+1);
     }
 }
