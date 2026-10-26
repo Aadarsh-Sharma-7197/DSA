@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k">3823. Count Islands With Total Value Divisible by K</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> matrix <code>grid</code> and a positive integer <code>k</code>. An <strong>island</strong> is a group of <strong>positive</strong> integers (representing land) that are <strong>4-directionally</strong> connected (horizontally or vertically).</p>
+# 3619. Count Islands With Total Value Divisible by K
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/)
+
+**Topics:** Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
+
+---
+
+<p>You are given an <code>m x n</code> matrix <code>grid</code> and a positive integer <code>k</code>. An <strong>island</strong> is a group of <strong>positive</strong> integers (representing land) that are <strong>4-directionally</strong> connected (horizontally or vertically).</p>
 
 <p>The <strong>total value</strong> of an island is the sum of the values of all cells in the island.</p>
 
@@ -40,3 +48,8 @@
 	<li><code>0 &lt;= grid[i][j] &lt;= 10<sup>6</sup></code></li>
 	<li><code>1 &lt;= k &lt;= 10<sup>6</sup></code></li>
 </ul>
+
+
+---
+
+**My Solution:** [3619-Count-Islands-With-Total-Value-Divisible-by-K.java](./3619-Count-Islands-With-Total-Value-Divisible-by-K.java)
