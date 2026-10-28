@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list">528. Swapping Nodes in a Linked List</a></h2><h3>Medium</h3><hr><p>You are given the <code>head</code> of a linked list, and an integer <code>k</code>.</p>
+# 1721. Swapping Nodes in a Linked List
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+
+**Topics:** Linked List, Two Pointers
+
+---
+
+<p>You are given the <code>head</code> of a linked list, and an integer <code>k</code>.</p>
 
 <p>Return <em>the head of the linked list after <strong>swapping</strong> the values of the </em><code>k<sup>th</sup></code> <em>node from the beginning and the </em><code>k<sup>th</sup></code> <em>node from the end (the list is <strong>1-indexed</strong>).</em></p>
 
@@ -25,3 +33,8 @@
 	<li><code>1 &lt;= k &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= Node.val &lt;= 100</code></li>
 </ul>
+
+
+---
+
+**My Solution:** [1721-Swapping-Nodes-in-a-Linked-List.java](./1721-Swapping-Nodes-in-a-Linked-List.java)
