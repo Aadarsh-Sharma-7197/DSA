@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0147-insertion-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0791-custom-sort-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0791-custom-sort-string) |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
@@ -392,5 +393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0147-insertion-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
