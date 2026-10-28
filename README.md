@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1163-last-substring-in-lexicographical-order) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1768-merge-strings-alternately) |
 | [3794-reverse-string-prefix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3794-reverse-string-prefix) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -388,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0881-boats-to-save-people) |
+## Linked List
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
