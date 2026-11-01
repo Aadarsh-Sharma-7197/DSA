@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/add-minimum-number-of-rungs">2066. Add Minimum Number of Rungs</a></h2><h3>Medium</h3><hr><p>You are given a <strong>strictly increasing</strong> integer array <code>rungs</code> that represents the <strong>height</strong> of rungs on a ladder. You are currently on the <strong>floor</strong> at height <code>0</code>, and you want to reach the last rung.</p>
+# 1936. Add Minimum Number of Rungs
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/add-minimum-number-of-rungs/)
+
+**Topics:** Array, Greedy
+
+---
+
+<p>You are given a <strong>strictly increasing</strong> integer array <code>rungs</code> that represents the <strong>height</strong> of rungs on a ladder. You are currently on the <strong>floor</strong> at height <code>0</code>, and you want to reach the last rung.</p>
 
 <p>You are also given an integer <code>dist</code>. You can only climb to the next highest rung if the distance between where you are currently at (the floor or on a rung) and the next rung is <strong>at most</strong> <code>dist</code>. You are able to insert rungs at any positive <strong>integer</strong> height if a rung is not already there.</p>
 
@@ -45,3 +53,8 @@ The ladder will now have rungs at [<u>1</u>,3,4,6,7].
 	<li><code>1 &lt;= dist &lt;= 10<sup>9</sup></code></li>
 	<li><code>rungs</code> is <strong>strictly increasing</strong>.</li>
 </ul>
+
+
+---
+
+**My Solution:** [1936-Add-Minimum-Number-of-Rungs.java](./1936-Add-Minimum-Number-of-Rungs.java)
