@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3668-restore-finishing-order) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
