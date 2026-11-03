@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii">4116. Minimum Moves to Equal Array Elements III</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+# 3736. Minimum Moves to Equal Array Elements III
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)
+
+**Topics:** Array, Math
+
+---
+
+<p>You are given an integer array <code>nums</code>.</p>
 
 <p>In one move, you may <strong>increase</strong> the value of any single element <code>nums[i]</code> by 1.</p>
 
@@ -51,3 +59,8 @@
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+
+---
+
+**My Solution:** [3736-Minimum-Moves-to-Equal-Array-Elements-III.java](./3736-Minimum-Moves-to-Equal-Array-Elements-III.java)
