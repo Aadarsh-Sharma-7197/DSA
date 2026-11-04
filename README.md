@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0938-range-sum-of-bst](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -406,4 +407,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0147-insertion-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
