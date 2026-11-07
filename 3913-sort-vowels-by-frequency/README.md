@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/sort-vowels-by-frequency">4282. Sort Vowels by Frequency</a></h2><h3>Medium</h3><hr><p data-end="271" data-start="95">You are given a string <code>s</code> consisting of lowercase English characters.</p>
+# 3913. Sort Vowels by Frequency
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/sort-vowels-by-frequency/)
+
+**Topics:** String, Sorting, Counting
+
+---
+
+<p data-end="271" data-start="95">You are given a string <code>s</code> consisting of lowercase English characters.</p>
 
 <p>Rearrange only the <strong>vowels</strong> in the string so that they appear in <strong>non-increasing</strong> order of their frequency.</p>
 
@@ -63,3 +71,8 @@
 	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> consists of lowercase English letters</li>
 </ul>
+
+
+---
+
+**My Solution:** [3913-Sort-Vowels-by-Frequency.java](./3913-Sort-Vowels-by-Frequency.java)
