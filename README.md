@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3794-reverse-string-prefix) |
+| [3913-sort-vowels-by-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -299,12 +300,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2895-minimum-processing-time](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2895-minimum-processing-time) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3913-sort-vowels-by-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3913-sort-vowels-by-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Geometry
 |  |
 | ------- |
