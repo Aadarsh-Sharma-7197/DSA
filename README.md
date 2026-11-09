@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1314-matrix-block-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1314-matrix-block-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1528-shuffle-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1528-shuffle-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1314-matrix-block-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1314-matrix-block-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1672-richest-customer-wealth) |
@@ -122,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
+| [1267-count-servers-that-communicate](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3913-sort-vowels-by-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3913-sort-vowels-by-frequency) |
