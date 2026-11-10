@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Graph Theory
 |  |
 | ------- |
