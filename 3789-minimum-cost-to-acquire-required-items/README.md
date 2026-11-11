@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-to-acquire-required-items">4147. Minimum Cost to Acquire Required Items</a></h2><h3>Medium</h3><hr><p>You are given five integers <code>cost1</code>, <code>cost2</code>, <code>costBoth</code>, <code>need1</code>, and <code>need2</code>.</p>
+# 3789. Minimum Cost to Acquire Required Items
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/)
+
+**Topics:** Math, Greedy
+
+---
+
+<p>You are given five integers <code>cost1</code>, <code>cost2</code>, <code>costBoth</code>, <code>need1</code>, and <code>need2</code>.</p>
 
 <p>There are three types of items available:</p>
 
@@ -58,3 +66,8 @@ Any other valid combination would cost more, so the minimum total cost is 22.</p
 	<li><code>1 &lt;= cost1, cost2, costBoth &lt;= 10<sup>6</sup></code></li>
 	<li><code>0 &lt;= need1, need2 &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+
+---
+
+**My Solution:** [3789-Minimum-Cost-to-Acquire-Required-Items.java](./3789-Minimum-Cost-to-Acquire-Required-Items.java)
