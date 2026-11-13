@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3692-majority-frequency-characters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3692-majority-frequency-characters) |
 | [3794-reverse-string-prefix](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3794-reverse-string-prefix) |
 | [3913-sort-vowels-by-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Bit Manipulation
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3668-restore-finishing-order) |
+| [3692-majority-frequency-characters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3692-majority-frequency-characters) |
 | [3945-digit-frequency-score](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3945-digit-frequency-score) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Recursion
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3692-majority-frequency-characters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3692-majority-frequency-characters) |
 | [3913-sort-vowels-by-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Geometry
 |  |
