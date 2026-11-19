@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2399-check-distances-between-same-letters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2895-minimum-processing-time](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2895-minimum-processing-time) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1936-add-minimum-number-of-rungs](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1936-add-minimum-number-of-rungs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [2895-minimum-processing-time](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2895-minimum-processing-time) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
