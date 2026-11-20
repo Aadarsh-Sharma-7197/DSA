@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2895-minimum-processing-time) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2942-find-words-containing-character) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2716-minimize-string-length](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3668-restore-finishing-order) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
 | [1267-count-servers-that-communicate](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3692-majority-frequency-characters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3692-majority-frequency-characters) |
 | [3913-sort-vowels-by-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3913-sort-vowels-by-frequency) |
