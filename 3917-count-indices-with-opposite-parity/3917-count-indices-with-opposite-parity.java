@@ -1,15 +1,18 @@
 class Solution {
     public int[] countOppositeParity(int[] nums) {
         int n = nums.length;
-        int[] ans = new int[n];
-        for(int i = 0; i < n; i++){
-            int cnt = 0;
-            for(int j = i + 1; j < n; j ++)
-                if(nums[i] % 2 != nums[j] % 2)
-                    cnt++;
-            
-            ans[i] = cnt;
+        int odd = 0;
+        int even = 0;
+        for(int i = n-1; i >= 0; i--){
+            if(nums[i] % 2 == 0){
+                nums[i] = odd;
+                even++;
+            }
+            else{
+                nums[i] = even;
+                odd++;
+            }
         }
-        return ans;
+        return nums;
     }
 }
