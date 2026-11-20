@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1773-count-items-matching-a-rule](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1936-add-minimum-number-of-rungs) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1980-find-unique-binary-string](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1980-find-unique-binary-string) |
