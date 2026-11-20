@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1925-count-square-sum-triples](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1925-count-square-sum-triples) |
 | [2409-count-days-spent-together](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2652-sum-multiples) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
+| [1925-count-square-sum-triples](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1925-count-square-sum-triples) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
