@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
