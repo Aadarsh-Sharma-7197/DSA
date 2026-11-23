@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1314-matrix-block-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0908-smallest-range-i) |
 | [1323-maximum-69-number](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Aadarsh-Sharma-7197/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Backtracking
 |  |
